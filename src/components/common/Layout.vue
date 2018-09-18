@@ -1,18 +1,22 @@
 <template>
   <div class="">
     <div class="header">header</div>
-    <div class="content">content</div>
+    <div class="content">
+      <keep-alive>
+        <router-view></router-view>
+      </keep-alive>
+    </div>
     <div class="footer">footer</div>
   </div>
 </template>
 
 <style lang="scss" scoped>
-.content{
+.content {
   background-color: lightblue;
 }
 </style>
 <style>
-@import "../../assets/style/common/reset";
+@import '../../assets/style/common/reset';
 </style>
 
 <script>
@@ -26,8 +30,8 @@ export default {
   methods: {},
   filters: {},
   computed: {},
-  created () {},
-  mounted () {},
-  destroyed () {}
+  created () { },
+  mounted () { },
+  destroyed () { }
 }
 </script>

@@ -41,4 +41,6 @@ Scss全局引入配置:
     2.修改utils.js
 Layout.vue
 reset.css
+设置格式化
+Index.vue
 #------------------end-------------------------
