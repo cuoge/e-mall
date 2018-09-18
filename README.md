@@ -33,4 +33,11 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 git clone git@github.com:cuoge/e-mall.git
 npm i vue-cli -g
 vue init webpack e-mall
+重命名项目为store
+配置vue.json
+npm install node-sass sass-loader --save-dev
+Scss全局引入配置:
+    1.npm install sass-resources-loader --save-dev     
+    2.修改utils.js
+
 #------------------end-------------------------
