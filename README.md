@@ -1,4 +1,4 @@
-# e-mall
+# store
 
 > A Vue.js project
 
