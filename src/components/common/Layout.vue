@@ -1,10 +1,18 @@
 <template>
   <div class="">
-
+    <div class="header">header</div>
+    <div class="content">content</div>
+    <div class="footer">footer</div>
   </div>
 </template>
 
 <style lang="scss" scoped>
+.content{
+  background-color: lightblue;
+}
+</style>
+<style>
+@import "../../assets/style/common/reset";
 </style>
 
 <script>

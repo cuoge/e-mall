@@ -39,5 +39,6 @@ npm install node-sass sass-loader --save-dev
 Scss全局引入配置:
     1.npm install sass-resources-loader --save-dev     
     2.修改utils.js
-
+Layout.vue
+reset.css
 #------------------end-------------------------
