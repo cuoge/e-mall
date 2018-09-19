@@ -43,5 +43,6 @@ reset.css
 Index.vue  
 README.md换行：要换行的语句最后打上2个空格  
 Github上README.md书写规范  
+测试Scss全局变量
 
 -------------------------------------------  
