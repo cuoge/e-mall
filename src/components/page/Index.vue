@@ -1,10 +1,13 @@
 <template>
-  <div class="">
+  <div class="index">
     index
   </div>
 </template>
 
 <style lang="scss" scoped>
+.index{
+  background-color: $red;
+}
 </style>
 
 <script>

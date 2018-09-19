@@ -10,9 +10,12 @@
   </div>
 </template>
 
+<style lang="scss">
+@import '../../assets/style/common/global';
+</style>
 <style lang="scss" scoped>
 .content {
-  background-color: lightblue;
+  background-color: $bgColor;
 }
 </style>
 <style>
