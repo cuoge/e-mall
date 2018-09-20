@@ -11,7 +11,7 @@
 </template>
 
 <style lang="scss">
-@import '../../assets/style/common/global';
+@import '../../assets/css/common/global';
 </style>
 <style lang="scss" scoped>
 .content {
@@ -19,7 +19,7 @@
 }
 </style>
 <style>
-@import '../../assets/style/common/reset';
+@import '../../assets/css/common/reset';
 </style>
 
 <script>
